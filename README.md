@@ -4,4 +4,4 @@ To run this code on your system/device.
  - npm install xlsx
  - node script.js
  - or just install Code Runner compiler from Extension and press ctrl + alt + n
- - (This assignnment is done with the help of chatgpt)
+ - (This assignnment is done with partial help of chatgpt)
