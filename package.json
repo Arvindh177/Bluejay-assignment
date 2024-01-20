@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "csv-parse": "^4.16.3",
+    "papaparse": "^5.4.1",
+    "xlsx": "^0.18.5"
+  }
+}
